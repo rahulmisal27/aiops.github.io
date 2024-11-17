@@ -1,0 +1,4 @@
+setuptools==69.2.0
+click==8.1.7
+Sphinx==7.3.7
+sphinxcontrib-youtube==1.4.1
